@@ -43,7 +43,7 @@ The project demonstrates several practical agent patterns:
 
 ### Full Research Graph
 
-![LangGraph research workflow](<screenshots/Screenshot 2026-09-08 101749.png>)
+![LangGraph research workflow](<screenshots/Graph.png>)
 
 The full graph creates analyst personas, pauses for human feedback, runs interview subgraphs, writes report sections, and then produces the final introduction, body, conclusion, and source list.
 
